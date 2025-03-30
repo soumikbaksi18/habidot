@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "catoff",
+    "slug": "catoff",
+    "version": "1.0.5",
+    "scheme": "catoff",
+    "privacy": "hidden",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.catoffGaming.catoffapp",
+      "buildNumber": "5"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.catoffGaming.catoffapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f631f5ad-3967-4d21-9930-a48c28ca67c2"
+      }
+    },
+    "owner": "kararsweta"
+  }
+}
