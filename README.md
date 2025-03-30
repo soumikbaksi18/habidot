@@ -253,10 +253,6 @@ The APK will be available at `android/app/build/outputs/apk/release/app-release.
 
 Build using Xcode by opening the `.xcworkspace` file in the `ios` directory.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙌 Acknowledgements
 
 - [Expo](https://expo.dev/)
@@ -268,5 +264,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the Habidot Team</p>
+  <p>Built with ❤️ by the Catoff Team</p>
 </div>
