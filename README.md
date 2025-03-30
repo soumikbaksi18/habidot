@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eb4a3b50-dc4e-411e-bd10-3b157ca122da)# Habidot: Accountability-as-a-Service
+# Habidot: Accountability-as-a-Service
 
 ![image](https://github.com/user-attachments/assets/2ee01f17-0cf2-45f9-be39-d33ebdbd5184)
 
