@@ -1,7 +1,10 @@
-# Habidot: Accountability-as-a-Service
+![image](https://github.com/user-attachments/assets/eb4a3b50-dc4e-411e-bd10-3b157ca122da)# Habidot: Accountability-as-a-Service
+
+![image](https://github.com/user-attachments/assets/2ee01f17-0cf2-45f9-be39-d33ebdbd5184)
+
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=Habidot" alt="Habidot Logo" width="200"/>
+  
   <h3>Transform your habits with financial incentives</h3>
   
   [![Expo](https://img.shields.io/badge/Expo-v50.0-blue.svg)](https://expo.dev/)
@@ -22,7 +25,10 @@ Habidot is a cutting-edge mobile application that revolutionizes personal accoun
 - **Gamification:** Real-time leaderboards, progress tracking, and achievement badges
 - **Social Challenges:** Create private groups with friends or join public challenges
 
-## 📱 Screenshots
+## 📱 Demo Videos : 
+1) https://drive.google.com/file/d/1UPME6JjnekMaxbzP9lZQyvaGnC58OVU3/view?usp=drive_link
+
+2) https://drive.google.com/file/d/1UPME6JjnekMaxbzP9lZQyvaGnC58OVU3/view?usp=drive_link
 
 <div align="center">
   <p float="left">
